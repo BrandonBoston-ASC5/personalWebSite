@@ -1,0 +1,63 @@
+.content{
+    background: linear-gradient(to bottom, red, blue,purple,aqua);
+    margin:-8px;
+    margin-top:-34px;
+    
+}
+.logo{
+    height:50px;
+padding-bottom:4px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    background: linear-gradient(to bottom, white, black);
+    margin:-8px;
+    padding-top: 7px;
+    padding-right:7px;
+    
+}
+.links{
+    display: flex;
+    border:solid;
+    border-color:purple;
+    height: 35px;
+    width: 70px;
+    justify-content: center;
+    align-items: center;
+    color:whitesmoke;
+    font-size:12px;
+    margin-left: 70px;
+    background-color: linear-gradient(to bottom, white, black);
+}
+#aboutMe{
+    height:120px;
+    margin-left:15px;
+    color:rgb(204, 231, 231);
+}
+p{
+    font-size:25px;
+}
+.activities{
+    font-size:35px;
+    color: rgb(204, 231, 231);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    font-size:30px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size:30px;
+}
+.url{
+    font-size: 35px;
+    color: rgb(204, 231, 231);
+    list-style-type: upper-roman;
+}
