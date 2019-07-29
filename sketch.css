@@ -1,3 +1,10 @@
+p{
+    margin-left:30px;
+}
+li{
+    margin-left:30px;
+}
+
 .content{
     background: linear-gradient(to bottom, red, blue,purple,aqua);
     margin:-8px;
@@ -46,18 +53,36 @@ p{
 h1{
     text-align: center;
     font-size: 50px;
+    margin-left:30px;
 }
 h2{
     font-size:30px;
+    margin-left:30px;
 }
 h3{
     font-size: 30px;
+    margin-left:30px;
+
 }
 h4{
     font-size:30px;
+    margin-left:30px;
 }
 .url{
     font-size: 35px;
     color: rgb(204, 231, 231);
     list-style-type: upper-roman;
+}
+#Me{
+    height:150px;
+    margin-left:43%;
+
+}
+#contacts{
+    font-size:30px;
+    margin-left: 30px;
+}
+.MyContact{
+    font-size:25px;
+    color:blue;
 }
